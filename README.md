@@ -42,8 +42,11 @@ To get started with the project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/orders-app.git
    cd orders-app
-Install dependencies:
+2. Install dependencies:
+   ```bash
    npm install
-Run the app:
+
+3. Run the app:
+   ```bash
    npm run dev
 The app will be live at http://localhost:3000
