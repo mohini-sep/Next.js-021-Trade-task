@@ -2,6 +2,9 @@
 
 A responsive Orders dashboard built with Next.js for displaying and managing open orders. This project was created as part of the Trade UI Task, focusing on replicating the Open Orders screen with clean design, smooth interactions, and mobile responsiveness.
 
+![image](https://github.com/user-attachments/assets/dbdaf1ce-dcd0-49d9-9940-94c8c4b84784)
+
+
 ## 🧠 Features
 - 📱 Fully responsive UI
 - 📊 Table view for open orders
