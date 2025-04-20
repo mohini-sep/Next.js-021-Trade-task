@@ -11,4 +11,15 @@ A responsive Orders dashboard built with Next.js for displaying and managing ope
 
 ## 🏗️ Project Structure
 
-orders-app/ ├── app/ │ └── page.tsx # Main Orders page ├── components/ │ ├── Table.tsx # Orders table component │ ├── Filters.tsx # Filter controls │ └── Layout.tsx # Layout wrapper ├── styles/ │ └── globals.css # Custom CSS and animations ├── public/ │ └── favicon.ico # Favicon ├── README.md # Project documentation ├── next.config.js # Next.js configuration └── package.json # Project dependencies and scripts
+orders-app/             
+├── components/ 
+│   └── Layout.js
+├── pages/ 
+│   ├── _app.js
+│   ├── index.js 
+│   └── orders.js 
+├── styles/ 
+│   ├── globals.css
+│   ├── Layout.module.css 
+│   └── Orders.module.css 
+├── public/ │ └── favicon.ico # Favicon ├── README.md # Project documentation ├── next.config.js # Next.js configuration └── package.json # Project dependencies and scripts
