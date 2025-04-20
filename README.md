@@ -14,19 +14,24 @@ A responsive Orders dashboard built with Next.js for displaying and managing ope
 
 ## 🏗️ Project Structure
 
-orders-app/             
-├── components/ 
-│   └── Layout.js
-├── pages/ 
-│   ├── _app.js
-│   ├── index.js 
-│   └── orders.js 
-├── styles/ 
-│   ├── globals.css
-│   ├── Layout.module.css 
-│   └── Orders.module.css 
-├── public/ │ └── favicon.ico # Favicon ├── README.md # Project documentation ├── next.config.js # Next.js configuration └── package.json # Project dependencies and scripts
-
+/root-directory
+├── /node_modules             # External libraries and dependencies
+├── /.next                    # Next.js build output (do not push to git)
+├── /components               # Reusable components
+│   ├── Layout.js             # Layout component for consistent page structure
+├── /pages                    # Pages for routing in Next.js
+│   ├── _app.js               # Custom App component for Next.js
+│   ├── index.js              # Homepage and main content
+│   ├── orders.js             # Orders page
+├── /styles                   # Styling for the project
+│   ├── Layout.module.css     # Styles for the Layout component
+│   ├── Orders.module.css     # Styles for the Orders page
+│   ├── globals.css           # Global styles for the project
+├── .gitignore                # Files to ignore in Git version control
+├── next.config.js            # Configuration file for Next.js
+├── package-lock.json         # Lock file for package versions
+├── package.json              # Project dependencies and scripts
+└── README.md                 # Project documentation
 
 
 ## Technologies Used
