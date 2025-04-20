@@ -13,7 +13,7 @@ A responsive Orders dashboard built with Next.js for displaying and managing ope
 - ⚡ Built with Next.js 
 
 ## 🏗️ Project Structure
-
+<pre> ```bash
 /root-directory
 ├── /node_modules             # External libraries and dependencies
 ├── /.next                    # Next.js build output (do not push to git)
@@ -32,7 +32,7 @@ A responsive Orders dashboard built with Next.js for displaying and managing ope
 ├── package-lock.json         # Lock file for package versions
 ├── package.json              # Project dependencies and scripts
 └── README.md                 # Project documentation
-
+</pre>
 
 ## Technologies Used
 - Next.js (React Framework)
