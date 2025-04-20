@@ -23,3 +23,27 @@ orders-app/
 │   ├── Layout.module.css 
 │   └── Orders.module.css 
 ├── public/ │ └── favicon.ico # Favicon ├── README.md # Project documentation ├── next.config.js # Next.js configuration └── package.json # Project dependencies and scripts
+
+
+
+## Technologies Used
+- Next.js (React Framework)
+- React.js
+- CSS / Tailwind CSS (for styling)
+- JavaScript
+- Node.js (runtime environment)
+- Git (Version Control)
+
+## 🚀 Getting Started
+
+To get started with the project locally, follow these steps:
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/orders-app.git
+   cd orders-app
+Install dependencies:
+   npm install
+Run the app:
+   npm run dev
+The app will be live at http://localhost:3000
