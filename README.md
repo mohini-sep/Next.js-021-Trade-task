@@ -6,8 +6,7 @@ A responsive Orders dashboard built with Next.js for displaying and managing ope
 - 📱 Fully responsive UI
 - 📊 Table view for open orders
 - 🧭 Filter controls and sorting
-- 🔄 Animations on load and interactions
 - 🎨 Clean, minimal design using custom CSS
-- ⚡ Built with Next.js App Router
+- ⚡ Built with Next.js 
 
 ## 🏗️ Project Structure
